@@ -2,8 +2,7 @@
 
 ### Data Project 2023 -- Pass Stunt Analysis
 
-#### Ben Hakimi
-#### QA: Maddie G's Brother and Tara N's Brother
+#### Ben Hakimi, Maddie G's Brother, and Tara N's Brother
 
 Data can be found here if you want to run the code:
 https://www.kaggle.com/competitions/nfl-big-data-bowl-2023/data
